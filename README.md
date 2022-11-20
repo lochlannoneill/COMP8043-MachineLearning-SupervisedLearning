@@ -1,6 +1,3 @@
-# COMP8043-Machine-Learning-Supervised-Learning
-Machine Learning Assignment 2
-
 <!--https://github.com/darsaveli/Readme-Markdown-Syntax-->
 
 # COMP8043-Machine-Learning-Supervised-Learning
