@@ -36,7 +36,7 @@ Perceptron:
 
 -----
 
-SVM:  
+Support Vector Machine (SVM):  
 ![svm1](https://github.com/lochlannoneill/COMP8043-Machine-Learning-Supervised-Learning/blob/main/screenshots/smv1.PNG?raw=true)
 ![svm1](https://github.com/lochlannoneill/COMP8043-Machine-Learning-Supervised-Learning/blob/main/screenshots/smv2.PNG?raw=true)
 
@@ -48,7 +48,7 @@ K-Nearest Neighbour:
 
 -----
 
-DTree:  
+Decision Tree:  
 ![dtree1](https://github.com/lochlannoneill/COMP8043-Machine-Learning-Supervised-Learning/blob/main/screenshots/dtree1.PNG?raw=true)
 ![dtree2](https://github.com/lochlannoneill/COMP8043-Machine-Learning-Supervised-Learning/blob/main/screenshots/dtree2.PNG?raw=true)
 
