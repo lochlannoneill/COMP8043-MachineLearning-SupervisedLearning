@@ -1,6 +1,6 @@
 <!--https://github.com/darsaveli/Readme-Markdown-Syntax-->
 
-# COMP8043-Machine-Learning-Supervised-Learning
+# COMP8043-MachineLearning-SupervisedLearning
 
 ### Collaborators:
 * **[Lochlann O Neill](https://github.com/lochlannoneill)**
